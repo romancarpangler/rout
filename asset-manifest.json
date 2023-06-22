@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/romancarpangler/rout/static/css/main.7acaea2f.css",
+    "main.js": "/romancarpangler/rout/static/js/main.5c909061.js",
+    "index.html": "/romancarpangler/rout/index.html",
+    "main.7acaea2f.css.map": "/romancarpangler/rout/static/css/main.7acaea2f.css.map",
+    "main.5c909061.js.map": "/romancarpangler/rout/static/js/main.5c909061.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.5c909061.js"
+  ]
+}
