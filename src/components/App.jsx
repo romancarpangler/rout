@@ -17,7 +17,15 @@ export const App = () => {
 
       <Route path="/home" element={<div>home</div>} />
       <Route path="/home/:boardName" element={<div>home:id</div>} />
-      <Route path="*" element={<div>welcome</div>} />
+      <Route
+        path="*"
+        element={
+          <div>
+            welcome page <Link to="/auth/login"> login</Link>
+            <Link to="/auth/register"> register</Link>
+          </div>
+        }
+      />
     </Routes>
   );
 };
